@@ -1,0 +1,7 @@
+1. Express
+2. Middlewares
+3. Routing
+4. Error Handling
+5. Database persistance MongoDB (mongoose)
+6. ازاي اخد فكرة من أي عميل سواء شركة او فريلانس و أحولها لداتا بيز ديزاين 
+7. Advanced Mongoose
